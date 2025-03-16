@@ -12,7 +12,7 @@ export default function CustomTextArea({ name, rules, ...otherProps }: CustomTex
 
   return <>
     <Textarea
-      placeholder="入力してください"
+      placeholder="Enter here"
       bg="white"
       {...register(name, rules)}
       {...otherProps} />

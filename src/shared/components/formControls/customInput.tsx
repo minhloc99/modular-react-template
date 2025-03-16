@@ -12,7 +12,7 @@ export default function CustomInput({ name, rules, ...otherProps }: CustomInputP
 
   return <>
     <Input
-      placeholder="入力してください"
+      placeholder="Enter here"
       bg="white"
       {...register(name, rules)}
       {...otherProps} />
