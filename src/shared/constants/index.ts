@@ -1,0 +1,1 @@
+export const IS_CREATE_MODE = "create";
