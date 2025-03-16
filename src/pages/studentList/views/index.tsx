@@ -28,7 +28,7 @@ function StudentListPageContent() {
       >Add new student</Button>
     </HStack>
     <List.Root
-      p="10"
+      p="4"
     >
       <For
         each={studentList}

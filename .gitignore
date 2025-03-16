@@ -33,3 +33,8 @@ dist-ssr
 **/*.njsproj
 **/*.sln
 **/*.log
+**/*.tsbuildinfo
+package-lock.json
+vite.config.d.ts
+vite.config.js
+**/*.cache
